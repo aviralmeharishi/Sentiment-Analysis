@@ -81,33 +81,6 @@ This project bypasses secondary interpretations by deploying an **end-to-end dat
  ┗ 📜 README.md                # Technical documentation
 ```
 
----
-
-## 🚀 Quickstart
-
-### 1. Clone & Environment
-```bash
-git clone https://github.com/your-username/budget-ai-analysis.git
-cd budget-ai-analysis
-
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-### 2. Environment Variables
-Create a `.env` file in the root directory:
-```env
-GEMINI_API_KEY=your_gemini_api_key_here
-```
-
-### 3. Execute Analysis
-```bash
-jupyter notebook BudgetAnalysis.ipynb
-```
-
----
-
 ## 🏛️ Data Sourcing & Attribution
 
 All primary text analyzed in this repository originates directly from public domain records published by the **Ministry of Finance, Government of India**:
