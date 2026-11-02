@@ -1,4 +1,4 @@
-# 📊 Indian Union Budget 2026-27: AI & Sentiment Analysis
+# **📊 Indian Union Budget 2026-27: AI & Sentiment Analysis**
 
 > **An Industrial-Grade NLP & Generative AI Project** analyzing the authentic Indian Union Budget Speech to extract underlying themes, sentiments, and sector-wise allocations.
 
