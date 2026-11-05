@@ -19,6 +19,7 @@
 | **Location** | Lok Sabha, New Delhi, India |
 | **Source PDF** | [Ministry of Finance, Government of India (bs2024_25.pdf)](https://www.indiabudget.gov.in/doc/bspeech/bs2024_25.pdf) |
 | **Dataset Volume** | 1,371 Filtered Sentences / Analytical Paragraphs |
+| **Duration:** Approximately 85 minutes (~1 hour 25 minutes)|
 
 > [!NOTE]
 > **Interim vs. Full Budget Context:**  
