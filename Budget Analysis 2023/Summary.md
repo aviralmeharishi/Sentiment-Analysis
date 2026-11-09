@@ -1,4 +1,4 @@
-## **🏛️ Comprehensive Economic Synthesis (Budget 2023–24)**
+## **🏛️ Comprehensive Analysis of Budget 2023–24)**
 
 ---
 
