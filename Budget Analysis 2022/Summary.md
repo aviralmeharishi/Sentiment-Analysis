@@ -1,7 +1,7 @@
-# **Summary of Union Budget 2022-23**
 
 
-## 🏛️ Comprehensive Economic Synthesis (Budget 2022–23)
+
+# **🏛️ Comprehensive Economic Analysis (Budget 2022–23)**
 
 ---
 
