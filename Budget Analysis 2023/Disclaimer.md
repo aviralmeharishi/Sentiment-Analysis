@@ -1,11 +1,24 @@
 ## **⚠️ Disclaimer**
 
 ---
-This repository and the accompanying analysis are created strictly for **educational, research, and data science demonstration purposes**. 
+
+
+### ⚖️ A Quick Note & Disclaimer
+
 ---
-* **Data Source & Authenticity:** The raw text corpus analyzed in this project is programmatically extracted from the publicly available Union Budget 2023–24 speech PDF hosted on the official Government of India portal (`indiabudget.gov.in`). While automated parsing tools (`pypdf`) are used to extract the text, minor formatting artifacts inherent to PDF-to-text conversion may exist.
+
+* 🔍 **We're Data Folks, Not Economists:**  
+  We built this project out of curiosity to explore Natural Language Processing (NLP) on real-world government data. We aren't certified economists, tax consultants, or financial planners. Please don't treat anything here as investment, legal, or financial advice!
+
+* 🏛️ **100% Authentic Public Source:**  
+  Every word analyzed comes directly from the official, unedited Budget Speech PDF published by the Ministry of Finance on the [India Budget Portal](https://www.indiabudget.gov.in/). This project is completely independent and has no official tie to the Government of India.
+
+* ⚖️ **Neutral & Unbiased:**  
+  There's zero political agenda here. We let the math speak—the numbers, frequencies, and charts are generated strictly by code (`NLTK`, `TextBlob`, `SciPy`) running on the verbatim transcript.
+
+* 🤖 **AI-Generated Summaries:**  
+  The tables and qualitative takeaways were synthesized using Large Language Models (Gemini & Ollama). They reflect how AI interprets and summarizes the raw speech, not our personal opinions. For any actual tax rates or legal clauses, always refer to the official **Finance Act**.
+
 ---
-* **Algorithmic & NLP Limitations:** All insights, including keyword frequencies, N-gram distributions, WordClouds, and sentiment polarity trajectories, are generated algorithmically using Natural Language Processing libraries (`NLTK`, `TextBlob`) and Large Language Models (`Gemini`, `Groq`, `Ollama`). Lexicon-based sentiment analysis and AI-driven summaries reflect mathematical and linguistic patterns in the transcript and may not fully capture complex macroeconomic nuances or legislative context.
----
-* **No Financial or Political Bias:** The findings presented in this notebook do not constitute professional financial, investment, tax, or economic policy advice. Furthermore, this project is a neutral, data-driven exploration and does not represent any political affiliation, endorsement, or critique of government policies. Users are encouraged to consult official budget documents and certified financial advisors for decision-making.
+
 ---
