@@ -1,6 +1,8 @@
 # **Context And Disclaimer: Interim Budget 2024–25**
 
 > [!NOTE]
+> **THIS IS AN ANALYSIS OF INTERIM BUDGET OF 2024**
+---
 > **Primary Source & Contextual Notice**  
 > This empirical investigation is conducted exclusively on the verbatim transcripts of the **Interim Union Budget of India for the Financial Year 2024–2025**. Due to the constitutional constraints of an election year, this legislative document fundamentally differs in scope, statutory power, and economic rhetoric from a standard annual Union Budget.
 
@@ -37,14 +39,24 @@ The presentation of an **Interim Budget** is governed by established parliamenta
 | **Constitutional Vehicle** | Vote on Account (Transitional appropriation) | Annual Financial Statement & Finance Bill |
 | **Statutory Scope** | Continuity of essential expenditure | Comprehensive legislative tax and tariff reforms |
 | **Temporal Horizon** | Short-term bridge (First quarter of FY 2024–25) | Complete 12-month fiscal framework and 5-year outlook |
-| **Policy Formulation** | Institutional consolidation; retrospective review | Allocative restructuring and major scheme announcements |
+| **Policy Formulation** | Institutional consolidation; retrospective review | Allocative restructuring and major scheme announcement |
+
 
 ---
 
-### 3. Implications for Natural Language Processing (NLP) Analysis
+## ⚖️ A Quick Note & Disclaimer
 
-From a computational text-analytics standpoint, the lexical distribution of this corpus reflects specific macroeconomic and political constraints:
+* 🔍 **We're Data Folks, Not Economists:**  
+  We built this project out of curiosity to explore Natural Language Processing (NLP) on real-world government data. We aren't certified economists, tax consultants, or financial planners. Please don't treat anything here as investment, legal, or financial advice!
 
-* **Absence of Legislative Tax Corpus:** Statutory phrasing typical of standard Finance Bills (e.g., specific clause amendments, procedural tariff revisions, section codes) is substantially minimized.
-* **Emphasis on Retrospective Performance:** High token frequencies center on governance milestones, decade-long economic stabilization metrics, and macro-indicators.
-* **Thematic Centering on Vision Narratives:** Frequency distributions are dominated by long-term developmental vectors—notably *Viksit Bharat @ 2047*—and targeted demographic clusters: *Garib* (underprivileged), *Yuva* (youth), *Mahilayen* (women), and *Annadata* (farmers).
+* 🏛️ **100% Authentic Public Source:**  
+  Every word analyzed comes directly from the official, unedited Budget Speech PDF published by the Ministry of Finance on the [India Budget Portal](https://www.indiabudget.gov.in/). This project is completely independent and has no official tie to the Government of India.
+
+* ⚖️ **Neutral & Unbiased:**  
+  There's zero political agenda here. We let the math speak—the numbers, frequencies, and charts are generated strictly by code (`NLTK`, `TextBlob`, `SciPy`) running on the verbatim transcript.
+
+* 🤖 **AI-Generated Summaries:**  
+  The tables and qualitative takeaways were synthesized using Large Language Models (Gemini & Ollama). They reflect how AI interprets and summarizes the raw speech, not our personal opinions. For any actual tax rates or legal clauses, always refer to the official **Finance Act**.
+
+---
+
