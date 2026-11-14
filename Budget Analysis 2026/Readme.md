@@ -6,7 +6,7 @@
 ![NLP](https://img.shields.io/badge/NLP-NLTK%20%7C%20TextBlob-orange?style=for-the-badge)
 ![GenAI](https://img.shields.io/badge/GenAI-Ollama%20%7C%20Gemini-brightgreen?style=for-the-badge)
 ![Stats](https://img.shields.io/badge/Stats-SciPy-yellow?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Apache-purple?style=for-the-badge)
+
 
 ---
 
