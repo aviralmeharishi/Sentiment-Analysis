@@ -1,7 +1,7 @@
 
 ---
 
-## ⚖️ A Quick Note & Disclaimer
+## **⚖️ A Quick Note & Disclaimer**
 
 * 🔍 **We're Data Folks, Not Economists:**  
   We built this project out of curiosity to explore Natural Language Processing (NLP) on real-world government data. We aren't certified economists, tax consultants, or financial planners. Please don't treat anything here as investment, legal, or financial advice!
