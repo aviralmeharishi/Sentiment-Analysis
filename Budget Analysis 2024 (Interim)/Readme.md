@@ -4,7 +4,6 @@
 [![NLTK](https://img.shields.io/badge/NLP-NLTK-green?logo=python)](https://www.nltk.org/)
 [![GenAI](https://img.shields.io/badge/LLM-Gemini%20%7C%20Groq%20%7C%20Ollama-orange?logo=google)](https://ai.google.dev/)
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 > 🇮🇳 **Decoding India's Economic Blueprint:** An end-to-end Natural Language Processing (NLP) and Generative AI framework to parse, clean, and extract granular sectoral insights, fiscal metrics, and policy directions from the **Interim Union Budget Speech 2024–25**.
 
