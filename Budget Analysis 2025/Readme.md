@@ -2,7 +2,7 @@
 
 An industrial-grade Natural Language Processing and Generative AI pipeline analyzing authentic Parliamentary transcripts to decode national economic priorities, policy sentiment, and fiscal models.
 
-`Python 3.10+` · `NLTK & TextBlob` · `Ollama (Local SLMs)` · `Google Gemini 3.5` · `SciPy T-Test` · `Apache 2.0 License`
+`Python 3.10+` · `NLTK & TextBlob` · `Ollama (Local SLMs)` · `Google Gemini 3.5` · `SciPy T-Test` · 
 
 ---
 
